@@ -1,7 +1,7 @@
 # [Symfony Con - Paris 2015](http://pariscon2015.symfony.com/) talks
 
 - All talks are in **english**.
-- Comment and rate talks on [joind.in](https://joind.in/event/view/4063)
+- Comment and rate talks on [joind.in](https://joind.in/event/view/4063#event-tabs)
 
 ## 10 years of Symfony
 
