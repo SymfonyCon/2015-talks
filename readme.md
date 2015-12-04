@@ -149,7 +149,7 @@ By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)
   <dd>When MongoDB and its PHP driver first appeared on the scene, the GoPHP5 movement was just winding down, PHP6 books were on the best-seller list, and developers were handling dependencies with a mix of PEAR and Git submodules. After six years, our beloved driver had become quite the complex, monolithic extension, and PHP 5.x was no longer the only platform on the block. With the goal of supporting multiple platforms (PHP 5.x, HHVM, and PHP 7) while still keeping our maintenance burden in check, we set out to create several new light-weight extensions and pushed all of those user-friendly, high-level APIs off to a single, supporting PHP library. This session will walk through our journey and provide a fresh look at the next-generation MongoDB driver for PHP.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/jmikola/rethinking-extension-development-for-php-and-hhvm)  
 ~~Video~~
 
 By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)  
