@@ -213,7 +213,7 @@ By [Yoav Kutner](https://connect.sensiolabs.com/profile/yoavkutner)
   <dd>There are so many interesting ways to authenticate a user: via an API token, social login, a traditional HTML form or anything else you can dream up. But until now, creating a custom authentication system in Symfony has meant a lot of files and a lot of complexity. Introducing Guard: a simple, but expandable authentication system built on top of the security component and introduced in Symfony 2.8. Want to authenticate via an API token? Great - that's just one class. Social login? Easy! Have some crazy legacy central authentication system? In this talk, we'll show you how you'd implement any of these in your application today. Don't get me wrong - you'll still need to do some work. But finally, the path will be clear and joyful.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/weaverryan/guard-authentication-powerful-beautiful-security)
 ~~Video~~
 
 By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)  
