@@ -405,7 +405,7 @@ By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)
   <dd>The open source world is made out of human interactions as much as it is made of code. During this session, Jordi will be sharing his experiences as the Composer Project lead. He will show you glimpses into what it means and feels like to be the maintainer of a popular open source project. By sharing his experiences, Jordi hopes that you will gain a better understanding of the human factor in the open source community.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slides.seld.be/?file=2015-12-04+Behind+the+Scenes+of+Maintaining+an+Open+Source+Project.html#1)  
 ~~Video~~
 
 By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)  
