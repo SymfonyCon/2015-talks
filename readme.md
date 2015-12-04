@@ -117,7 +117,7 @@ By [Benjamin Talmard](https://connect.sensiolabs.com/profile/benjiiim)
   <dd>Speakers: Kevin Dunglas and Fabien Gasser. In a first part we will introduce semantic and linked data technologies supported by Symfony and API Platform: JSON-LD, Hydra and Schema.org, their contributions to interoperability and a web of data and how to use them, technologies until there the restricted domain of Java such as RDF, SPARQL, triple stores, ontology engines. In a second part we will give a feedback on the strategy we employed to build a high traffic CMS platform using Symfony, API Platform and AngularJS as technical stack. We will see how an API-first strategy helped us to deliver fluently content on several channels (desktop, mobile apps, connected devices, partners…) and how that strategy helped us to make large teams working together on the same project. We will also see how to leverage Varnish and AWS to absorb gigantic traffic peaks, how pure-JS fit well with that architecture and effects on SEO. In a third part we will give you some tips in order to build an e-commerce platform based on that approach.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/dunglas/a-high-profile-project-with-symfony-and-api-platform-bein-sports)
+[Slides](https://speakerdeck.com/dunglas/a-high-profile-project-with-symfony-and-api-platform-bein-sports)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
@@ -165,7 +165,7 @@ By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)
   <dd>Using Doctrine 2 can be a very rewarding experience, extremely frustrating or anything in between. To be a happy Doctrine 2 user requires attention and willingness to compromise. In this talk I will show how to use Doctrine defensively, common pitfalls that hurt maintainability and when to avoid Doctrine altogether.</dd>
 </dl>
 
-[Slides](https://qafoo.com/talks/15_09_symfony_live_london_doctrine2_to_use_or_not_to_use.pdf) (PDF)
+[Slides](https://qafoo.com/talks/15_09_symfony_live_london_doctrine2_to_use_or_not_to_use.pdf)  
 ~~Video~~
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
@@ -213,7 +213,7 @@ By [Yoav Kutner](https://connect.sensiolabs.com/profile/yoavkutner)
   <dd>There are so many interesting ways to authenticate a user: via an API token, social login, a traditional HTML form or anything else you can dream up. But until now, creating a custom authentication system in Symfony has meant a lot of files and a lot of complexity. Introducing Guard: a simple, but expandable authentication system built on top of the security component and introduced in Symfony 2.8. Want to authenticate via an API token? Great - that's just one class. Social login? Easy! Have some crazy legacy central authentication system? In this talk, we'll show you how you'd implement any of these in your application today. Don't get me wrong - you'll still need to do some work. But finally, the path will be clear and joyful.</dd>
 </dl>
 
-[Slides](http://www.slideshare.net/weaverryan/guard-authentication-powerful-beautiful-security)
+[Slides](http://www.slideshare.net/weaverryan/guard-authentication-powerful-beautiful-security)  
 ~~Video~~
 
 By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)  
@@ -245,7 +245,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
   <dd>3 years of work with 25 developers, 3.000 classes, 325.000 LOC: Symfony2 is more than ever present at BlaBlaCar. We would like to show you our website, its strengths and weaknesses, our most beautiful success and... our most extraordinary failures! We would like to apologise for all horrors which will be mentioned, all the crappy code which will be shown and the American happy ending!</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/odolbeau/symfony-at-blablacar)
+[Slides](https://speakerdeck.com/odolbeau/symfony-at-blablacar)  
 ~~Video~~
 
 By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
@@ -373,7 +373,7 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
   <dd>The Symfony2 Form component makes form processing a snap. It features a very flexible architecture and a myriad of configuration options that you can use to implement a wide variety from simple to very complex forms. However, knowing how to use this effectively can be a challenge. This session will give you a deeper understanding of the inner workings of the Form component and show how master the component in three simple steps.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/webmozart/symfony2-forms-dos-and-donts) 
+[Slides](https://speakerdeck.com/webmozart/symfony2-forms-dos-and-donts)  
 ~~Video~~
 
 By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)  
