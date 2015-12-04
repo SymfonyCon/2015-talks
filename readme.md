@@ -165,7 +165,7 @@ By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)
   <dd>Using Doctrine 2 can be a very rewarding experience, extremely frustrating or anything in between. To be a happy Doctrine 2 user requires attention and willingness to compromise. In this talk I will show how to use Doctrine defensively, common pitfalls that hurt maintainability and when to avoid Doctrine altogether.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://qafoo.com/talks/15_09_symfony_live_london_doctrine2_to_use_or_not_to_use.pdf) (PDF)
 ~~Video~~
 
 By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)  
