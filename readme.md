@@ -309,7 +309,7 @@ By [Jakub Zalas](https://connect.sensiolabs.com/profile/jakubzalas)
   <dd>Blackfire.io is a Symfony project. But it's only the tip of the iceberg. By its very nature, Blackfire.io faces challenges that few Symfony projects have to overcome. Managing a project with several languages like PHP, Go or C, releasing binary softwares to end-users weekly or synchronize development across stacks using different technologies are some of the challenges we face every day in addition to more usual ones for Symfony projects like logging, daily deployments or delivering features. What did we do to become able to provide a complete binary releases of over 100 artifacts in less than twenty minutes? How did we manage to produce over one thousand releases in less than an year? In this talk I will give you a taste of what it feels like to work in such a stimulating environment as well as explaining how we are tackling these issues.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/tucksaun/symfonylive-san-francisco-2015-blackfire-dot-io-a-symfony-project-like-no-other)  
 ~~Video~~
 
 By [Tugdual Saunier](https://connect.sensiolabs.com/profile/tucksaun)  
