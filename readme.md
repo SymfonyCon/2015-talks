@@ -245,7 +245,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
   <dd>3 years of work with 25 developers, 3.000 classes, 325.000 LOC: Symfony2 is more than ever present at BlaBlaCar. We would like to show you our website, its strengths and weaknesses, our most beautiful success and... our most extraordinary failures! We would like to apologise for all horrors which will be mentioned, all the crappy code which will be shown and the American happy ending!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/odolbeau/symfony-at-blablacar)
 ~~Video~~
 
 By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
