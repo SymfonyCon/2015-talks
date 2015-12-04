@@ -373,7 +373,7 @@ By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)
   <dd>The Symfony2 Form component makes form processing a snap. It features a very flexible architecture and a myriad of configuration options that you can use to implement a wide variety from simple to very complex forms. However, knowing how to use this effectively can be a challenge. This session will give you a deeper understanding of the inner workings of the Form component and show how master the component in three simple steps.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/webmozart/symfony2-forms-dos-and-donts) 
 ~~Video~~
 
 By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)  
