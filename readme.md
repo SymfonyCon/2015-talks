@@ -277,7 +277,7 @@ By [Kris Wallsmith](https://connect.sensiolabs.com/profile/kriswallsmith)
   <dd>Efficient applications are fantastic; they keep server load, costs and response times low. We can make Symfony applications more efficient by removing the repetitive bootstrapping process from the request-response cycle. By using FastCGI we can keep our application alive between requests and vastly improve their performance. The best news is that adding a FastCGI interface to your Symfony (or Silex application) can be done very quickly! Let us not get too excited, however! When using PHP in this way we have to be very careful about the design and configuration of our application! This talk will explain how to use FastCGI with Symfony safely, providing an overview of the process and highlighting the danger areas that we must be cautious of.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://andrewcarteruk.github.io/slides/breaking-boundaries-with-fastcgi/index.html#/)  
 ~~Video~~
 
 By [Andrew Carter](https://connect.sensiolabs.com/profile/andrewcarteruk)  
