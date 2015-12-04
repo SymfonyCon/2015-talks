@@ -117,7 +117,7 @@ By [Benjamin Talmard](https://connect.sensiolabs.com/profile/benjiiim)
   <dd>Speakers: Kevin Dunglas and Fabien Gasser. In a first part we will introduce semantic and linked data technologies supported by Symfony and API Platform: JSON-LD, Hydra and Schema.org, their contributions to interoperability and a web of data and how to use them, technologies until there the restricted domain of Java such as RDF, SPARQL, triple stores, ontology engines. In a second part we will give a feedback on the strategy we employed to build a high traffic CMS platform using Symfony, API Platform and AngularJS as technical stack. We will see how an API-first strategy helped us to deliver fluently content on several channels (desktop, mobile apps, connected devices, partners…) and how that strategy helped us to make large teams working together on the same project. We will also see how to leverage Varnish and AWS to absorb gigantic traffic peaks, how pure-JS fit well with that architecture and effects on SEO. In a third part we will give you some tips in order to build an e-commerce platform based on that approach.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dunglas/a-high-profile-project-with-symfony-and-api-platform-bein-sports)
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)  
