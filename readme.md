@@ -133,7 +133,7 @@ By [Kévin Dunglas](https://connect.sensiolabs.com/profile/dunglas)
   <dd>Routing is this thing about mapping URLs to controllers, right? But in fact, there is a lot going on. Understanding the routing process will enable you to write more flexible code and keep logic out of your controllers. In this talk, we will see how routing actually works and then look at extension points like ParamConverters, custom request listeners and have a look at the CMF dynamic router that loads routes from databases or other sources on the fly.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://davidbu.ch/slides/2015-12-03-symfony-routing.html)  
 ~~Video~~
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)  
