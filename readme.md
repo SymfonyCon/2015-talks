@@ -261,7 +261,7 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
   <dd>Subtitle: Using the Symfony Event Dispatcher to turn your application into a simple state machine. If you have used Facebook's React library, then you are familiar with the concept of application state. React components are, at their core (and as noted in the official documentation), simple state machines. This declarative approach to building a UI may take some adjusting to, but it ultimately simplifies kludgy imperative code into smaller, much more manageable pieces. This pattern of manipulating state and responding to those changes can be implemented to great effect using the Symfony Event Dispatcher. This talk will step through this state-based approach to building an easily maintained and testable PHP application, tease out a few gotchas, and share real-world applications.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://fr.slideshare.net/kriswallsmith/matters-of-state-55843873)  
 ~~Video~~
 
 By [Kris Wallsmith](https://connect.sensiolabs.com/profile/kriswallsmith)  
