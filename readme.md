@@ -389,7 +389,7 @@ By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)
   <dd>Microservices are a huge trend, and microframeworks are perfect for them: put together just a few files, write some code, and your done! But Symfony is a big framework, right? Wrong! Symfony can be as small as a single file! In this talk, we'll learn how to use Symfony as a micro-framework for your next project. Your app will stay small and clear, but without needing to give up the features or third-party bundles that you love. And if the project grows, it can evolve naturally into a full Symfony project. So yes, Symfony can also be a microframework. Tell the world!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/weaverryan/symfony-your-next-microframework-symfonycon-2015)  
 ~~Video~~
 
 By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)  
