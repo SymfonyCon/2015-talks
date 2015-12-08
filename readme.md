@@ -325,7 +325,7 @@ By [Tugdual Saunier](https://connect.sensiolabs.com/profile/tucksaun)
   <dd>The amount of Symfony documentation and learning resources is overwhelming. However, its relentless pace of change makes it very difficult to keep updated on all its features. In this session you'll discover lots of new tips and tricks about Symfony and its entire ecosystem, including Twig, Monolog and Doctrine. Learn how to improve your day-to-day productivity and discover some rarely used options and features.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/javier.eguiluz/new-symfony-tips-tricks-symfonycon-paris-2015)  
 ~~Video~~
 
 By [Javier Eguiluz](https://connect.sensiolabs.com/profile/javier.eguiluz)  
