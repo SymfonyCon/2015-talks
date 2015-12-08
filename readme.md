@@ -426,7 +426,7 @@ By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)
 ~~Video~~  
 
 By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
-![github](icon/github.png) [@unknownbliss](https://github.com/unknownbliss)  
+![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)  
 ![twitter](icon/twitter.png) [@michaelcullumuk](https://twitter.com/michaelcullumuk)
 
 ---
