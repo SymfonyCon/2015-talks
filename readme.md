@@ -411,3 +411,22 @@ By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)
 By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)  
 ![github](icon/github.png) [@Seldaek](https://github.com/Seldaek)  
 ![twitter](icon/twitter.png) [@seldaek](https://twitter.com/seldaek)
+
+---
+
+---
+
+---
+
+# Lightning Talks
+
+## PHP FIG: The PSRs you don't know about
+
+[Slides](https://speakerdeck.com/michaelcullum/php-fig-the-psrs-you-dont-know-about)  
+~~Video~~  
+
+By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
+![github](icon/github.png) [@unknownbliss](https://github.com/unknownbliss)  
+![twitter](icon/twitter.png) [@michaelcullumuk](https://twitter.com/michaelcullumuk)
+
+---
