@@ -21,7 +21,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
   <dd>Security in Symfony is often misunderstood. Let's have a look at what is really happening behind the opaque configuration of the Security Bundle. Then we will see how it is possible to implement any way to authenticate a user in Symfony without third party library.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/saro0h/symfonycon-paris-dig-in-security)  
 ~~Video~~
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
