@@ -357,7 +357,7 @@ By [Andre Rømcke](https://connect.sensiolabs.com/profile/andrerom)
   <dd>PHP7 is released, and promises many performances improvements. Let's profile together some classical Symfony2 code, and see the performance differences between PHP5 and PHP7. Using the Blackfire tool, we'll compare performances of different Symfony2 components, as well as different Doctrine2 scenarios, into a Symfony2 web application. We'll then detail together the internal technical parts of PHP7 that made such improvements possible.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://slideshare.net/jpauli/php-7-performances-from-php-5)  
 ~~Video~~
 
 By [Julien Pauli](https://connect.sensiolabs.com/profile/jpauli)  
