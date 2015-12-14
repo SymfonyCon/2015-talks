@@ -37,7 +37,7 @@ By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)
   <dd>The e-commerce is one of the main points of modern software. The e-commerce sector is growing about 15% annually, which is why it deserves special attention from software engineers. Speaking of e-commerce and open source at once is not easy. For many years we have identified the concept with pain and despair, so we must work urgently to change the way we understand it should be. What are the important points to consider? Where do we find the line between architecture and pragmatism? Are we walking in the right direction? How can Symfony help in this?</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.slideshare.net/MarcMorera/when-ecommercemeetssymfonyparissymfonycon2015)  
 ~~Video~~
 
 By [Marc Morera](https://connect.sensiolabs.com/profile/mmoreram)  
