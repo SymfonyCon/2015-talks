@@ -229,7 +229,7 @@ By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)
   <dd>Migrating from Symfony 2.3 to the newest Symfony 3.0 won't force you to rewrite all your application. Instead, you'll follow a well documented and continuous upgrade path to make a smooth transition. How is this possible? In this session, I'll tell you how the BC promise enables easy migrations. I'll also tell you about the creation of the new deprecation policy introduced in Symfony 2.7. These are the two corner stones that allow Symfony to do the split: having a wide range of stable apps and innovating at the same time.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasgrekas/how-symfony-3-dot-0-moves-forward-without-letting-anyone-behind)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
