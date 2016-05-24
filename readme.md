@@ -230,7 +230,7 @@ By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)
 </dl>
 
 [Slides](https://speakerdeck.com/nicolasgrekas/how-symfony-3-dot-0-moves-forward-without-letting-anyone-behind)  
-~~Video~~
+[Video](https://youtu.be/0t4Rp5NSwGI)
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
